@@ -4340,6 +4340,7 @@ warsaw10155.discord.gg
 warsaw10156.discord.gg
 warsaw10157.discord.gg
 warsaw10158.discord.gg
+
 # -----------------------------
 # ChatGPT / OpenAI – основные FQDN
 openai.com
@@ -4378,6 +4379,12 @@ events.launchdarkly.com
 workos.imgix.net
 cdn.workos.com
 images.workoscdn.com
+ai.com
+chatgpt.com
+chat.com
+oaistatic.com
+oaiusercontent.com
+openai.com
 o33249.ingest.sentry.io
 openaicom.imgix.net
 openai.com.cdn.cloudflare.net
